@@ -4,6 +4,6 @@
 @import "{{ site.theme }}";
 @import url('https://googleapis.com');
 
-body {
-    font-family: 'Didact Gothic', sans-serif;
+body, .markdown-body {
+    font-family: 'Didact Gothic', sans-serif !important;
 }
