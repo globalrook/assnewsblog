@@ -1,3 +1,3 @@
 ---
-title: Ass News
+title: Ass News blog
 ---
