@@ -1,6 +1,3 @@
 ---
-title: Welcome tomy blog!
+title: Welcome to my blog!
 ---
-text: bahbhahbabhabhabhabha
----
-[bbb](_posts/2026-09-26-bltes.md)
